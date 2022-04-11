@@ -1,0 +1,15 @@
+---
+sidebar_position: 6
+title: 测试结点连接
+---
+
+如何测试盒子的结点是否连接。
+
+## 测试结点连接情况
+
+```python
+from etherdata_sdk.json_rpc import JsonRpcMethods
+client = JsonRpcMethods("http://192.168.51.100:8547")
+print(client.block_number())
+
+```
