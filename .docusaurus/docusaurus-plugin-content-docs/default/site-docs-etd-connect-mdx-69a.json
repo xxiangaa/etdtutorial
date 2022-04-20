@@ -1,0 +1,27 @@
+{
+  "unversionedId": "ETD/connect",
+  "id": "ETD/connect",
+  "title": "测试结点连接",
+  "description": "如何测试盒子的结点是否连接。",
+  "source": "@site/docs/ETD/connect.mdx",
+  "sourceDirName": "ETD",
+  "slug": "/ETD/connect",
+  "permalink": "/docs/ETD/connect",
+  "editUrl": "https://github.com/etherdata-blockchain/blockrial/docs/ETD/connect.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "测试结点连接"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "公钥与私钥",
+    "permalink": "/docs/ETD/pk"
+  },
+  "next": {
+    "title": "上载NFT",
+    "permalink": "/docs/ETD/nft"
+  }
+}

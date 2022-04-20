@@ -1,0 +1,22 @@
+{
+  "unversionedId": "hash",
+  "id": "hash",
+  "title": "Hash Function",
+  "description": "什么是hash",
+  "source": "@site/docs/hash.mdx",
+  "sourceDirName": ".",
+  "slug": "/hash",
+  "permalink": "/docs/hash",
+  "editUrl": "https://github.com/etherdata-blockchain/blockrial/docs/hash.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Block Chain",
+    "permalink": "/docs/chain"
+  }
+}

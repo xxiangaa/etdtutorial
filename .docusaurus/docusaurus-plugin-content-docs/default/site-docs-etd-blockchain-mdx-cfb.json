@@ -1,0 +1,27 @@
+{
+  "unversionedId": "ETD/blockchain",
+  "id": "ETD/blockchain",
+  "title": "创建区块链",
+  "description": "",
+  "source": "@site/docs/ETD/blockchain.mdx",
+  "sourceDirName": "ETD",
+  "slug": "/ETD/blockchain",
+  "permalink": "/docs/ETD/blockchain",
+  "editUrl": "https://github.com/etherdata-blockchain/blockrial/docs/ETD/blockchain.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "创建区块链"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ETD",
+    "permalink": "/docs/ETD/"
+  },
+  "next": {
+    "title": "公钥与私钥",
+    "permalink": "/docs/ETD/pk"
+  }
+}

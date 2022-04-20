@@ -1,0 +1,27 @@
+{
+  "unversionedId": "ETD/nft",
+  "id": "ETD/nft",
+  "title": "上载NFT",
+  "description": "上载NFT文件",
+  "source": "@site/docs/ETD/nft.mdx",
+  "sourceDirName": "ETD",
+  "slug": "/ETD/nft",
+  "permalink": "/docs/ETD/nft",
+  "editUrl": "https://github.com/etherdata-blockchain/blockrial/docs/ETD/nft.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "上载NFT"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "测试结点连接",
+    "permalink": "/docs/ETD/connect"
+  },
+  "next": {
+    "title": "创建钱包、转账、查询余额",
+    "permalink": "/docs/ETD/wallet"
+  }
+}

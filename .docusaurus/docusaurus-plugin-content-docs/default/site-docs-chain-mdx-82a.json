@@ -1,0 +1,27 @@
+{
+  "unversionedId": "chain",
+  "id": "chain",
+  "title": "Block Chain",
+  "description": "什么是链",
+  "source": "@site/docs/chain.mdx",
+  "sourceDirName": ".",
+  "slug": "/chain",
+  "permalink": "/docs/chain",
+  "editUrl": "https://github.com/etherdata-blockchain/blockrial/docs/chain.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "Block Chain"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hash Function",
+    "permalink": "/docs/hash"
+  },
+  "next": {
+    "title": "ETD",
+    "permalink": "/docs/ETD/"
+  }
+}

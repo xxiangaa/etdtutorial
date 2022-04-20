@@ -1,0 +1,27 @@
+{
+  "unversionedId": "ETD/etd",
+  "id": "ETD/etd",
+  "title": "ETD",
+  "description": "什么是 ETD",
+  "source": "@site/docs/ETD/etd.mdx",
+  "sourceDirName": "ETD",
+  "slug": "/ETD/",
+  "permalink": "/docs/ETD/",
+  "editUrl": "https://github.com/etherdata-blockchain/blockrial/docs/ETD/etd.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "ETD"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Block Chain",
+    "permalink": "/docs/chain"
+  },
+  "next": {
+    "title": "创建区块链",
+    "permalink": "/docs/ETD/blockchain"
+  }
+}

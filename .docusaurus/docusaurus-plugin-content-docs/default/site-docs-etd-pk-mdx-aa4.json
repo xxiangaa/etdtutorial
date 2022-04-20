@@ -1,0 +1,27 @@
+{
+  "unversionedId": "ETD/pk",
+  "id": "ETD/pk",
+  "title": "公钥与私钥",
+  "description": "任务一、明文替换加密",
+  "source": "@site/docs/ETD/pk.mdx",
+  "sourceDirName": "ETD",
+  "slug": "/ETD/pk",
+  "permalink": "/docs/ETD/pk",
+  "editUrl": "https://github.com/etherdata-blockchain/blockrial/docs/ETD/pk.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "公钥与私钥"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "创建区块链",
+    "permalink": "/docs/ETD/blockchain"
+  },
+  "next": {
+    "title": "测试结点连接",
+    "permalink": "/docs/ETD/connect"
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/docs",
+          "tagsPath": "/docs/tags",
+          "versionEditUrl": "https://github.com/etherdata-blockchain/blockrial/docs",
+          "versionEditUrlLocalized": "https://github.com/etherdata-blockchain/blockrial/i18n/en/docusaurus-plugin-content-docs/current",
+          "versionBanner": null,
+          "versionBadge": false,
+          "versionClassName": "docs-version-current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/maxine/Desktop/etdtutorial/sidebars.js",
+          "contentPath": "/Users/maxine/Desktop/etdtutorial/docs",
+          "contentPathLocalized": "/Users/maxine/Desktop/etdtutorial/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "chain",
+              "id": "chain",
+              "title": "Block Chain",
+              "description": "什么是链",
+              "source": "@site/docs/chain.mdx",
+              "sourceDirName": ".",
+              "slug": "/chain",
+              "permalink": "/docs/chain",
+              "editUrl": "https://github.com/etherdata-blockchain/blockrial/docs/chain.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "Block Chain"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Hash Function",
+                "permalink": "/docs/hash"
+              },
+              "next": {
+                "title": "ETD",
+                "permalink": "/docs/ETD/"
+              }
+            },
+            {
+              "unversionedId": "ETD/blockchain",
+              "id": "ETD/blockchain",
+              "title": "创建区块链",
+              "description": "",
+              "source": "@site/docs/ETD/blockchain.mdx",
+              "sourceDirName": "ETD",
+              "slug": "/ETD/blockchain",
+              "permalink": "/docs/ETD/blockchain",
+              "editUrl": "https://github.com/etherdata-blockchain/blockrial/docs/ETD/blockchain.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4,
+                "title": "创建区块链"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "ETD",
+                "permalink": "/docs/ETD/"
+              },
+              "next": {
+                "title": "公钥与私钥",
+                "permalink": "/docs/ETD/pk"
+              }
+            },
+            {
+              "unversionedId": "ETD/connect",
+              "id": "ETD/connect",
+              "title": "测试结点连接",
+              "description": "如何测试盒子的结点是否连接。",
+              "source": "@site/docs/ETD/connect.mdx",
+              "sourceDirName": "ETD",
+              "slug": "/ETD/connect",
+              "permalink": "/docs/ETD/connect",
+              "editUrl": "https://github.com/etherdata-blockchain/blockrial/docs/ETD/connect.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6,
+                "title": "测试结点连接"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "公钥与私钥",
+                "permalink": "/docs/ETD/pk"
+              },
+              "next": {
+                "title": "上载NFT",
+                "permalink": "/docs/ETD/nft"
+              }
+            },
+            {
+              "unversionedId": "ETD/etd",
+              "id": "ETD/etd",
+              "title": "ETD",
+              "description": "什么是 ETD",
+              "source": "@site/docs/ETD/etd.mdx",
+              "sourceDirName": "ETD",
+              "slug": "/ETD/",
+              "permalink": "/docs/ETD/",
+              "editUrl": "https://github.com/etherdata-blockchain/blockrial/docs/ETD/etd.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "title": "ETD"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Block Chain",
+                "permalink": "/docs/chain"
+              },
+              "next": {
+                "title": "创建区块链",
+                "permalink": "/docs/ETD/blockchain"
+              }
+            },
+            {
+              "unversionedId": "ETD/nft",
+              "id": "ETD/nft",
+              "title": "上载NFT",
+              "description": "上载NFT文件",
+              "source": "@site/docs/ETD/nft.mdx",
+              "sourceDirName": "ETD",
+              "slug": "/ETD/nft",
+              "permalink": "/docs/ETD/nft",
+              "editUrl": "https://github.com/etherdata-blockchain/blockrial/docs/ETD/nft.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6,
+                "title": "上载NFT"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "测试结点连接",
+                "permalink": "/docs/ETD/connect"
+              },
+              "next": {
+                "title": "创建钱包、转账、查询余额",
+                "permalink": "/docs/ETD/wallet"
+              }
+            },
+            {
+              "unversionedId": "ETD/pk",
+              "id": "ETD/pk",
+              "title": "公钥与私钥",
+              "description": "任务一、明文替换加密",
+              "source": "@site/docs/ETD/pk.mdx",
+              "sourceDirName": "ETD",
+              "slug": "/ETD/pk",
+              "permalink": "/docs/ETD/pk",
+              "editUrl": "https://github.com/etherdata-blockchain/blockrial/docs/ETD/pk.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5,
+                "title": "公钥与私钥"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "创建区块链",
+                "permalink": "/docs/ETD/blockchain"
+              },
+              "next": {
+                "title": "测试结点连接",
+                "permalink": "/docs/ETD/connect"
+              }
+            },
+            {
+              "unversionedId": "ETD/wallet",
+              "id": "ETD/wallet",
+              "title": "创建钱包、转账、查询余额",
+              "description": "本教程将会介绍如何使用Etherdata-SDK 签署交易。请建立python文件（.py）",
+              "source": "@site/docs/ETD/wallet.mdx",
+              "sourceDirName": "ETD",
+              "slug": "/ETD/wallet",
+              "permalink": "/docs/ETD/wallet",
+              "editUrl": "https://github.com/etherdata-blockchain/blockrial/docs/ETD/wallet.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6,
+                "title": "创建钱包、转账、查询余额"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "上载NFT",
+                "permalink": "/docs/ETD/nft"
+              }
+            },
+            {
+              "unversionedId": "hash",
+              "id": "hash",
+              "title": "Hash Function",
+              "description": "什么是hash",
+              "source": "@site/docs/hash.mdx",
+              "sourceDirName": ".",
+              "slug": "/hash",
+              "permalink": "/docs/hash",
+              "editUrl": "https://github.com/etherdata-blockchain/blockrial/docs/hash.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Block Chain",
+                "permalink": "/docs/chain"
+              }
+            }
+          ],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "hash"
+              },
+              {
+                "type": "doc",
+                "id": "chain"
+              },
+              {
+                "type": "category",
+                "label": "ETD",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "ETD/blockchain"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "ETD/pk"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "ETD/connect"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "ETD/nft"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "ETD/wallet"
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "ETD/etd"
+                }
+              }
+            ]
+          },
+          "mainDocId": "hash",
+          "categoryGeneratedIndices": []
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": null
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}

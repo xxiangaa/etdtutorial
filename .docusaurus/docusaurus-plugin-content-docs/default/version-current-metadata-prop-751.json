@@ -1,0 +1,114 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Hash Function",
+        "href": "/docs/hash",
+        "docId": "hash"
+      },
+      {
+        "type": "link",
+        "label": "Block Chain",
+        "href": "/docs/chain",
+        "docId": "chain"
+      },
+      {
+        "type": "category",
+        "label": "ETD",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "创建区块链",
+            "href": "/docs/ETD/blockchain",
+            "docId": "ETD/blockchain"
+          },
+          {
+            "type": "link",
+            "label": "公钥与私钥",
+            "href": "/docs/ETD/pk",
+            "docId": "ETD/pk"
+          },
+          {
+            "type": "link",
+            "label": "测试结点连接",
+            "href": "/docs/ETD/connect",
+            "docId": "ETD/connect"
+          },
+          {
+            "type": "link",
+            "label": "上载NFT",
+            "href": "/docs/ETD/nft",
+            "docId": "ETD/nft"
+          },
+          {
+            "type": "link",
+            "label": "创建钱包、转账、查询余额",
+            "href": "/docs/ETD/wallet",
+            "docId": "ETD/wallet"
+          }
+        ],
+        "href": "/docs/ETD/"
+      }
+    ]
+  },
+  "docs": {
+    "chain": {
+      "id": "chain",
+      "title": "Block Chain",
+      "description": "什么是链",
+      "sidebar": "tutorialSidebar"
+    },
+    "ETD/blockchain": {
+      "id": "ETD/blockchain",
+      "title": "创建区块链",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "ETD/connect": {
+      "id": "ETD/connect",
+      "title": "测试结点连接",
+      "description": "如何测试盒子的结点是否连接。",
+      "sidebar": "tutorialSidebar"
+    },
+    "ETD/etd": {
+      "id": "ETD/etd",
+      "title": "ETD",
+      "description": "什么是 ETD",
+      "sidebar": "tutorialSidebar"
+    },
+    "ETD/nft": {
+      "id": "ETD/nft",
+      "title": "上载NFT",
+      "description": "上载NFT文件",
+      "sidebar": "tutorialSidebar"
+    },
+    "ETD/pk": {
+      "id": "ETD/pk",
+      "title": "公钥与私钥",
+      "description": "任务一、明文替换加密",
+      "sidebar": "tutorialSidebar"
+    },
+    "ETD/wallet": {
+      "id": "ETD/wallet",
+      "title": "创建钱包、转账、查询余额",
+      "description": "本教程将会介绍如何使用Etherdata-SDK 签署交易。请建立python文件（.py）",
+      "sidebar": "tutorialSidebar"
+    },
+    "hash": {
+      "id": "hash",
+      "title": "Hash Function",
+      "description": "什么是hash",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

@@ -17,14 +17,13 @@ title: 上载NFT
 ## 上传NFT
 
 ```python
-import os
 from etherdata_sdk.file import File, FileObject
 
-os.environ["url"] = "http://39.98.50.209:5145"
-file = File(url=os.getenv("url"))
+file = File("http://39.98.50.209:5145")
 file_object = FileObject(file_path="/Users/maxine/PycharmProjects/pythonProject2/MyNFT.png", days=2)
 file_id = file.upload_file(file_object, error_on_exists=False)
 print(file_id)
+
 
 ```
 

@@ -1,0 +1,66 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "hash",
+          "docs": [
+            {
+              "id": "chain",
+              "path": "/docs/chain",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ETD/blockchain",
+              "path": "/docs/ETD/blockchain",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ETD/connect",
+              "path": "/docs/ETD/connect",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ETD/etd",
+              "path": "/docs/ETD/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ETD/nft",
+              "path": "/docs/ETD/nft",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ETD/pk",
+              "path": "/docs/ETD/pk",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ETD/wallet",
+              "path": "/docs/ETD/wallet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "hash",
+              "path": "/docs/hash",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/hash",
+                "label": "hash"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

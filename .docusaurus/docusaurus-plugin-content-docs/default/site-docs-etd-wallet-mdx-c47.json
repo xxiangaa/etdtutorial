@@ -1,0 +1,23 @@
+{
+  "unversionedId": "ETD/wallet",
+  "id": "ETD/wallet",
+  "title": "创建钱包、转账、查询余额",
+  "description": "本教程将会介绍如何使用Etherdata-SDK 签署交易。请建立python文件（.py）",
+  "source": "@site/docs/ETD/wallet.mdx",
+  "sourceDirName": "ETD",
+  "slug": "/ETD/wallet",
+  "permalink": "/docs/ETD/wallet",
+  "editUrl": "https://github.com/etherdata-blockchain/blockrial/docs/ETD/wallet.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "创建钱包、转账、查询余额"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "上载NFT",
+    "permalink": "/docs/ETD/nft"
+  }
+}
